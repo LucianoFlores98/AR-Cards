@@ -16,6 +16,6 @@ Utilizando puntos clave en imagenes se realiza su seguimiento generando y anclan
 - ARFoundation
 - ArCore
 
-## Version 1
+## Caracteristicas
 
-Se realiza el seguimiento de una tarjeta sube Misionera. Al ser una tarjeta con pocos elementos, se requiere agregar puntos claves para el reconocimiento. Para solucionarlo se dibujaron algunas lineas y formas sobre la imagen, que si bien estos elementos dibujados no aparecen sobre la tarjeta, el sistema la reconoce de todas formas.
+Se realiza el seguimiento de sobre una carta de baraja española. El proyecto incluye varios Modelos 3D gratuitos con animaciones y también sprites de algunas cartas. Dentro del Proyecto se puede configurar fácilmente sobre que carta realizar el seguimiento y que modelo 3D generar sobre la misma.

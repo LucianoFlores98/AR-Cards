@@ -18,12 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5724178414570223188
-      m_GuidHigh: 14311703758356211618
+      m_GuidLow: 5037001392550000963
+      m_GuidHigh: 4960523178469333149
     m_SerializedTextureGuid:
-      m_GuidLow: 3761793530183860897
-      m_GuidHigh: 8291024388557026411
-    m_Size: {x: 0.09, y: 0.057234377}
+      m_GuidLow: 13665291506610369812
+      m_GuidHigh: 7784418676896405016
+    m_Size: {x: 0.05, y: 0.07511737}
     m_SpecifySize: 1
-    m_Name: dniEdited
+    m_Name: 7oro
     m_Texture: {fileID: 0}

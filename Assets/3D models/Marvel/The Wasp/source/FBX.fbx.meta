@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 2bafdfc4fdb94a74fa867dfec7211a04
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 699220534840925294
+    second: atk-01
+  - first:
+      74: 866314918074668984
+    second: atk-01c
+  - first:
+      74: -8382256495932664669
+    second: atk-02
+  - first:
+      74: -1739410079377693734
+    second: hero_wasp01_S02@dash
+  - first:
+      74: -5455075036266976943
+    second: die
+  - first:
+      74: 2459078804267041145
+    second: hit
+  - first:
+      74: 5325262735838072677
+    second: hero_wasp01_S02@idle
+  - first:
+      74: -8075163999283119254
+    second: skill01-01
+  - first:
+      74: -3950974150850070848
+    second: hero_wasp01_S02@skill01-02
+  - first:
+      74: 8705335533980804094
+    second: skill02-01
+  - first:
+      74: 8913192850434978064
+    second: skill02-02
+  - first:
+      74: -3443092891469937253
+    second: skill02-03
+  - first:
+      74: 2956819494266656207
+    second: skill03
+  - first:
+      74: 4786612017326772352
+    second: skill03c
+  - first:
+      74: 5349591597060142578
+    second: hero_wasp01_S02@skill04-01
+  - first:
+      74: -7731759035463997511
+    second: skill04-02
+  - first:
+      74: 7910538266464829757
+    second: skill04-03
+  - first:
+      74: -3627691089693476179
+    second: skill05-01
+  - first:
+      74: -5001766464650810361
+    second: skill05-01c
+  - first:
+      74: -1132259715149527891
+    second: skill05-02
+  - first:
+      74: 4923832521581906531
+    second: skill05-02c
+  - first:
+      74: 7159076691769902764
+    second: hero_wasp01_S02@stun
+  - first:
+      74: 3568942251913429158
+    second: succ_cam
+  - first:
+      74: -6139840412702788442
+    second: wait
+  - first:
+      74: -3419257869308726280
+    second: walk
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_wasp01_s02_car
+    second: {fileID: 2100000, guid: 1a2dd68600bb0954abcb2b5828b29743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_wasp01_s03_01
+    second: {fileID: 2100000, guid: cbf9d1edeae68684aa4a632592ef0a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_wasp01_s03_02
+    second: {fileID: 2100000, guid: a9f1b1afb64bc624698bb22ea76f9acb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hero_wasp01_s03_03
+    second: {fileID: 2100000, guid: eafa7245d20f77e43bafcb358380f548, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
